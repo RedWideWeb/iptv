@@ -71,5 +71,5 @@ http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmre
 http://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:5865 tvg-id="(no tvg-id)" tvg-name="Элио" tvg-logo="https://static.hdrezka.ac/i/2025/8/19/ddf030e1489bevi12q54d.jpg" group-title="ФИЛЬМЫ",Элио
+#EXTINF:5865 tvg-id="(no tvg-id)" tvg-name="Элио" tvg-logo="https://static.hdrezka.ac/i/2025/8/19/ddf030e1489bevi12q54d.jpg" group-title="Movies",Элио
 https://stream.voidboost.cc/bd9413c71bd83bea3cc91754e610733b:2025100518:SkxKanZKUFJIUDIxaVcwbEJldVpjS2t1NGY4T1Bzak9yL1pJVjdRajc0aUdyelNHVHE0b2ZGYXlDVlJkMitRQkFWeDZSUC9PMWJDdzZYMm9zbGVldXc9PQ==/1/3/2/6/2/0/6/ln2mv.mp4:hls:manifest.m3u8
