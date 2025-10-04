@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="НТВ",НТВ HD
+http://87.246.54.249:8085/HTB/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="НТВ",НТВ HD
+http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD" tvg-logo="" group-title="Россия 1",Россия 1 HD
+http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ТНТ",ТНТ HD
+http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ТНТ",ТНТ HD
+http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ТНТ",ТНТ HD
+http://87.246.54.249:8085/THT/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ТНТ",ТНТ HD
+http://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ТНТ",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва 24" tvg-logo="" group-title="Москва 24",Москва 24
+https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва 24" tvg-logo="" group-title="Москва 24",Москва 24
+http://178.212.71.253:8000/play/28/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва 24" tvg-logo="" group-title="Москва 24",Москва 24
+http://185.78.112.17/moskva_24/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва 24" tvg-logo="" group-title="Москва 24",Москва 24
+http://194.32.242.245/moskva24/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва 24" tvg-logo="" group-title="Москва 24",Москва 24
+http://195.26.83.96:7007/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва 24" tvg-logo="" group-title="Москва 24",Москва 24
+http://91.194.191.241:8081/chid48/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва 24" tvg-logo="" group-title="Москва 24",Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="НТВ",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="НТВ",НТВ HD
+http://185.78.112.17/ntv_hd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="НТВ",НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый HD" tvg-logo="" group-title="Первый",Первый HD
+http://185.78.112.17/ort_hd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый HD" tvg-logo="" group-title="Первый",Первый HD
+http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый HD" tvg-logo="" group-title="Первый",Первый HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РОССИЯ 1 HD" tvg-logo="" group-title="Россия 1",РОССИЯ 1 HD
+http://185.78.112.17/rossia_hd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD" tvg-logo="" group-title="Россия 1",Россия 1 HD
+http://91.194.191.241:8081/chid416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD" tvg-logo="" group-title="Россия 1",Россия 1 HD
+http://31.148.48.15:80/Rossiya_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD" tvg-logo="" group-title="Россия 1",Россия 1 HD
+http://178.212.71.253:8000/play/72/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ТНТ",ТНТ HD
+http://185.78.112.17/tnt_hd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ТНТ",ТНТ HD
+http://95.66.188.74:80/TNT_HD/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ТНТ",ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Москва 24" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Москва 24
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="НТВ",НТВ HD
+https://iptvx.one/picons/ntv.png"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="НТВ",НТВ HD
+https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="" group-title="НТВ",НТВ HD
+https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD" tvg-logo=" group-title="Россия 1",Россия 1 HD
+https://iptvx.one/picons/rossia1.png"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD" tvg-logo="" group-title="Россия 1",Россия 1 HD
+https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD" tvg-logo="" group-title="Россия 1",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD" tvg-logo="" group-title="Россия 1",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
