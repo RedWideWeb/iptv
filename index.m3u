@@ -1,78 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",1920x1080 f
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",1920x1080 f
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",1920x1080 f
-http://185.78.112.17/rossia_hd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",1920x1080 f
+#EXTINF:-1 tvg-id="ch_e5b4ae3d2d" tvg-name="Россия 1 HD (1080) [ffprobe] • 178" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",Россия 1 HD
 http://178.212.71.253:8000/play/72/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",1920x1080 f
+#EXTINF:-1 tvg-id="ch_60f33dd955" tvg-name="РОССИЯ 1 HD (1080) [ffprobe] • 185" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",РОССИЯ 1 HD
+http://185.78.112.17/rossia_hd/index.m3u8
+#EXTINF:-1 tvg-id="ch_96acc627e1" tvg-name="Россия 1 HD (1080) [ffprobe] • 31" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",Россия 1 HD
 http://31.148.48.15:80/Rossiya_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 v" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",1920x1080 v
-https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 v" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",1920x1080 v
+#EXTINF:-1 tvg-id="ch_fe31ee904d" tvg-name="Россия 1 HD (1080) [ffprobe] • vgtrkregion-reg" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="ch_6360f18509" tvg-name="Россия 1 HD (1080) [ffprobe] • vgtrkregion-reg" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="ch_2d101f3360" tvg-name="Россия 1 HD (1080) [variant] • live-mirror-01" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",Россия 1 HD
 https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1280x720 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",1280x720 f
+#EXTINF:-1 tvg-id="ch_4fcd40809d" tvg-name="Россия 1 HD (1080) [variant] • live-mirror-01" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",Россия 1 HD
+https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="ch_e83240a86f" tvg-name="Россия 1 HD (720) [ffprobe] • mfe01" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/russia1.png" group-title="Россия 1",Россия 1 HD
 http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",1920x1080 f
-http://185.78.112.17/ntv_hd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",1920x1080 f
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",1920x1080 f
-http://87.246.54.249:8085/HTB/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",1920x1080 f
+#EXTINF:-1 tvg-id="ch_247bbb4a5d" tvg-name="НТВ HD (1080) [ffprobe] • 178" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",НТВ HD
 http://178.212.71.253:8000/play/33/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 v" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",1920x1080 v
+#EXTINF:-1 tvg-id="ch_649967ac39" tvg-name="НТВ HD (1080) [ffprobe] • 185" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",НТВ HD
+http://185.78.112.17/ntv_hd/index.m3u8
+#EXTINF:-1 tvg-id="ch_2e1f5f366b" tvg-name="НТВ HD (1080) [ffprobe] • 87" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",НТВ HD
+http://87.246.54.249:8085/HTB/index.m3u8
+#EXTINF:-1 tvg-id="ch_f41a36d2a4" tvg-name="НТВ HD (1080) [ffprobe] • livetv" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 tvg-id="ch_7f8d021d59" tvg-name="НТВ HD (1080) [variant] • cdn2" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 v" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",1920x1080 v
-https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 v" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",1920x1080 v
+#EXTINF:-1 tvg-id="ch_2424681884" tvg-name="НТВ HD (1080) [variant] • live-stream-22" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",НТВ HD
 https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1280x720 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",1280x720 f
+#EXTINF:-1 tvg-id="ch_b9ee48d924" tvg-name="НТВ HD (1080) [variant] • live-stream-22" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",НТВ HD
+https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="ch_d33c6c7308" tvg-name="НТВ HD (720) [ffprobe] • mfe01" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/ntv.png" group-title="НТВ",НТВ HD
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 v" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",1920x1080 v
+#EXTINF:-1 tvg-id="ch_42f71d9029" tvg-name="Москва 24 (1080) [variant] • livetv" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
 https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1024x576 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",1024x576 f
-https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="720x576 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",720x576 f
-http://185.78.112.17/moskva_24/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="720x576 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",720x576 f
-http://194.32.242.245/moskva24/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="720x576 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",720x576 f
-http://91.194.191.241:8081/chid48/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="720x576 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",720x576 f
+#EXTINF:-1 tvg-id="ch_78e9310541" tvg-name="Москва 24 (576) [ffprobe] • 178" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
 http://178.212.71.253:8000/play/28/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1980x1920 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",1980x1920 f
+#EXTINF:-1 tvg-id="ch_fdef0fe6b4" tvg-name="Москва 24 (576) [ffprobe] • 185" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
+http://185.78.112.17/moskva_24/index.m3u8
+#EXTINF:-1 tvg-id="ch_82dd6e03bc" tvg-name="Москва 24 (576) [ffprobe] • 194" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
+http://194.32.242.245/moskva24/index.m3u8
+#EXTINF:-1 tvg-id="ch_7fbfc1f54c" tvg-name="Москва 24 (576) [ffprobe] • 195" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
+http://195.26.83.96:7007/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="ch_1741f1a4ef" tvg-name="Москва 24 (576) [ffprobe] • 91" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
+http://91.194.191.241:8081/chid48/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ch_e24718d3ba" tvg-name="Москва 24 (576) [ffprobe] • player" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 tvg-id="ch_b71b1aae0f" tvg-name="Москва 24 (1920) [ffprobe] • rt-mos-htlive" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",
+#EXTINF:-1 tvg-id="ch_5430e11ab9" tvg-name="Москва 24 (?) • stream-msk-13" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
 https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",
+#EXTINF:-1 tvg-id="ch_333772ef84" tvg-name="Москва 24 (?) • stream-msk-13" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/m24.png" group-title="Москва 24",Москва 24
 https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/1.png" group-title="Первый канал",1920x1080 f
+#EXTINF:-1 tvg-id="ch_c9c15d22b2" tvg-name="Первый HD (1080) [ffprobe] • 185" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/1.png" group-title="Первый канал",Первый HD
 http://185.78.112.17/ort_hd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/1.png" group-title="Первый канал",1920x1080 f
+#EXTINF:-1 tvg-id="ch_bbdb9b1445" tvg-name="Первый HD (1080) [ffprobe] • 91" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/1.png" group-title="Первый канал",Первый HD
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1280x720 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/1.png" group-title="Первый канал",1280x720 f
+#EXTINF:-1 tvg-id="ch_8a00866b36" tvg-name="Первый HD (720) [variant] • livetv" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/1.png" group-title="Первый канал",Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",1920x1080 f
-http://95.66.188.74/TNT_HD/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",1920x1080 f
-http://95.66.188.74:80/TNT_HD/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",1920x1080 f
+#EXTINF:-1 tvg-id="ch_e6a6f504fa" tvg-name="ТНТ HD (1080) [ffprobe] • 185" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",ТНТ HD
 http://185.78.112.17/tnt_hd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",1920x1080 f
+#EXTINF:-1 tvg-id="ch_1de5cb188a" tvg-name="ТНТ HD (1080) [ffprobe] • 87" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",ТНТ HD
 http://87.246.54.249:8085/THT/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 v" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",1920x1080 v
-http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1920x1080 v" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",1920x1080 v
+#EXTINF:-1 tvg-id="ch_6f27bca93b" tvg-name="ТНТ HD (1080) [ffprobe] • 95" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 tvg-id="ch_4b0c64ebe7" tvg-name="ТНТ HD (1080) [ffprobe] • 95" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",ТНТ HD
+http://95.66.188.74:80/TNT_HD/mono.m3u8
+#EXTINF:-1 tvg-id="ch_26f0e05c65" tvg-name="ТНТ HD (1080) [variant] • live-stream-20" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",ТНТ HD
 http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1280x720 f" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",1280x720 f
+#EXTINF:-1 tvg-id="ch_31211b0dc6" tvg-name="ТНТ HD (1080) [variant] • live-stream-20" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",ТНТ HD
+http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+#EXTINF:-1 tvg-id="ch_60d9cdc708" tvg-name="ТНТ HD (720) [ffprobe] • mfe02" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",ТНТ HD
 http://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",
+#EXTINF:-1 tvg-id="ch_2693147c4a" tvg-name="ТНТ HD (?) • livetv" tvg-logo="https://raw.githubusercontent.com/RedWideWeb/iptv/refs/heads/main/tnt.png" group-title="ТНТ",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTVOD:5865 tvg-id="(no tvg-id)" tvg-name="Элио" tvg-logo="https://static.hdrezka.ac/i/2025/8/19/ddf030e1489bevi12q54d.jpg" group-title="ФИЛЬМЫ",Элио (2025)
 https://stream.voidboost.cc/bd9413c71bd83bea3cc91754e610733b:2025100518:SkxKanZKUFJIUDIxaVcwbEJldVpjS2t1NGY4T1Bzak9yL1pJVjdRajc0aUdyelNHVHE0b2ZGYXlDVlJkMitRQkFWeDZSUC9PMWJDdzZYMm9zbGVldXc9PQ==/1/3/2/6/2/0/6/ln2mv.mp4:hls:manifest.m3u8
 #EXTVOD:589 tvg-id="(no tvg-id)" tvg-name="Qualifying Singapore 2025" tvg-logo="https://f1tv.formula1.com/image-resizer/image/1000009906-d8897648-1461-4abe-9db5-34ee1f6eecd5/landscape_web?w=1216&h=684&q=HI&o=L" group-title="F1",Qualifying Singapore 2025
 https://ott-video-fer-cf.formula1.com/v2/pa_cGF0aDolMkZobHMlMkZGMV9TVVRfMTc1OTU5MDc0MjUxNF8xNzU5NTkwOTE1NjcyfGtpZDoxMDQyfGV4cDoxNzU5Njk0ODE4fHR0bDoxNDQwfGdlbzpMVnxzdHJlYW1UeXBlOkhMU3xzZXNzaW9uSWQ6MTk2MTE4OTY0XzAxSzZSREJCRjhYMlJOQU1ZNjE3WllRRThEX09QU3x0b2tlbjpkWFdOZ3psaWpCRTBEcUtsaHZ-V09rbXlQRGRqb0Nya0p1cDJrWFhwOGcwXw__/hls/F1_SUT_1759590742514_1759590915672/index.m3u8
-
